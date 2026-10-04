@@ -2,5 +2,5 @@
   "name": "same-fear-different-day",
   "private": true,
   "type": "module",
-  "scripts": { "test": "node tests/scanner.mjs" }
+  "scripts": { "test": "node tests/scanner.mjs", "build": "node scripts/build.mjs" }
 }

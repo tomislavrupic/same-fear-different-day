@@ -16,7 +16,7 @@ MP3s are optimized listening derivatives. Original WAV/MOV/MP4 masters are exclu
 
 ## Deployment
 
-Push to `main` in `tomislavrupic/same-fear-different-day`. The Pages workflow publishes only `site/`. All asset URLs are relative for a GitHub project-site subpath. The account and repository are separate from the existing portfolio deployment.
+Push to `main` in `tomislavrupic/same-fear-different-day`. The Pages workflow builds and publishes only `_deploy/` from `site/`. All asset URLs are relative for a GitHub project-site subpath. The account and repository are separate from the existing portfolio deployment.
 
 ## Upload review
 
@@ -27,3 +27,7 @@ Push to `main` in `tomislavrupic/same-fear-different-day`. The Pages workflow pu
 The detector is an interactive premium product in the same catalog data, plus a persistent header button. `site/scanner.js` controls a fullscreen native dialog with timed fictional checks, a 99% pause, randomized metrics, repeat scans and model-blaming replies. `site/scanner-diagnosis.js` chooses exactly one D13 slot out of 13, four contamination slots, and eight probably-human slots. No brain scan, model call, medical diagnosis, or user-data transmission occurs. Only the scan-attempt counter is stored locally. Closing cancels timers and releases scrolling. Supplied detector artwork is optimized to WebP without changing the original.
 
 Run `npm test` for probability and scanner lifecycle checks; no packages are required.
+
+## Cache-safe releases
+
+`npm run build` fingerprints CSS, JavaScript modules, catalog JSON, and sticker data, then rewrites all release references in `_deploy/`. Every changed dependency gets a fresh URL, preventing a new HTML document from using stale scanner code or a seven-product catalog. `node tests/release.mjs` checks this full dependency chain after building. GitHub Pages deploys this generated directory.

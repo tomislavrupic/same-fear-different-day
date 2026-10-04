@@ -9,3 +9,7 @@ JavaScript syntax: node --check site/app.js passed. Browser console had no site 
 ## Scanner update
 
 Node tests cover the actual scanner controller using a DOM/timer fixture: exact 1-in-13 D13 chance, metric bounds, 99% pause, three diagnosis branches, repeat scans, timer cancellation and scroll cleanup. Syntax and static asset checks pass. New visual browser checks remain unverified because browser access was denied earlier in this chat. GitHub workflow status is recorded separately from live browser acceptance.
+
+## Mixed-release fix
+
+User screenshot showed the new scanner header button with previous seven-product data and previous CSS (unstyled scanner button, old seven-column layout). Added content-fingerprinted deployment output so HTML, app imports, scanner modules, stylesheet and JSON all reference a matching release. Release dependency test verifies the generated eight-product catalog and scanner dialog. Browser inspection remains blocked by the saved domain permission; do not claim a live visual check.
