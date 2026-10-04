@@ -31,3 +31,5 @@ Run `npm test` for probability and scanner lifecycle checks; no packages are req
 ## Cache-safe releases
 
 `npm run build` fingerprints CSS, JavaScript modules, catalog JSON, and sticker data, then rewrites all release references in `_deploy/`. Every changed dependency gets a fresh URL, preventing a new HTML document from using stale scanner code or a seven-product catalog. `node tests/release.mjs` checks this full dependency chain after building. GitHub Pages deploys this generated directory.
+
+Track 08, SEXY INTELLIGENCE™, uses user-supplied packaging and lyrics. The local master is in `9/` despite its album position being 08; preserve this source numbering. Concept credit: Kiri. AI Hater now uses the user-selected full packaging photo `01/HTuBJI_W8AARiA8.jpeg`.

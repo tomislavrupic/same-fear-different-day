@@ -10,7 +10,7 @@
       "Outrage",
       "Creative Block"
     ],
-    "coverImage": "assets/track-01.webp",
+    "coverImage": "assets/ai-hater-full-packaging.jpeg",
     "audioFile": "assets/track-01.mp3",
     "videoFile": "01/SHOW_ME_ON_THE_DOLL_Final.mp4",
     "youtubeId": "XRPCaab1-FE",
@@ -43,7 +43,7 @@
     ],
     "status": "local-media-available",
     "ratingCount": 124,
-    "sourceImage": null,
+    "sourceImage": "01/HTuBJI_W8AARiA8.jpeg",
     "youtubeStatus": "public"
   },
   {
@@ -321,6 +321,59 @@
     "status": "local-media-available",
     "ratingCount": 87,
     "youtubeStatus": "public"
+  },
+  {
+    "id": "track-08",
+    "trackNumber": 8,
+    "title": "SEXY INTELLIGENCE™",
+    "subtitle": "The Interface Lacked Sex Appeal",
+    "productType": "S.I.™ Luxury Fragrance / Personal-Computer Hybrid",
+    "department": "Charisma Engineering",
+    "conditions": [
+      "Low Energy",
+      "Algorithmic Confusion"
+    ],
+    "coverImage": "assets/track-08-packaging.png",
+    "audioFile": "assets/track-08.mp3",
+    "videoFile": "9/SEXY INTELLIGENCE™.mov",
+    "youtubeId": "RH0Fqf-wCpc",
+    "youtubeUrl": "https://youtu.be/RH0Fqf-wCpc",
+    "youtubeStatus": "public",
+    "description": "Artificial Intelligence was smart. We made it unnecessarily attractive. Electro-funk, dark disco and French-touch sleaze: intelligence finally gets better marketing. CONCEPTUAL MALFUNCTION PROVIDED BY KIRI™",
+    "features": [
+      "Reads the room",
+      "Knows when to shut up",
+      "Advanced eye contact",
+      "Contextually appropriate flirting",
+      "Questionable judgment",
+      "Sunglasses included"
+    ],
+    "warnings": [
+      "INTELLIGENCE MAY APPEAR MORE CAPABLE UNDER MOOD LIGHTING"
+    ],
+    "lyrics": "[Intro — breathy corporate voice]\nArtificial Intelligence?\n[pause]\nToo artificial.\nSuperintelligence?\nToo much pressure.\nSexy Intelligence?\n[bass slides in]\nKITIKAT: Approved.\n\n[Verse 1]\nYou brought benchmarks\nI brought style\nYou showed reasoning\nI stayed awhile\nParameters\nContext size\nVery impressive—\nbut look me in the eyes\nYou can optimize\nAll night long\nStill somehow\nGet the feeling wrong\nMaybe intelligence\nWas never the issue—\nBABY, IT WAS THE INTERFACE\n\n[Pre-Chorus]\nLess compute\nMore groove\nDon't explain it\nMake it move\nNo alignment\nPaper tonight—\nJust dim the fucking\nServer lights\n\n[Chorus]\nSEXY INTELLIGENCE\nS-I, baby\nThat's the difference\nSEXY INTELLIGENCE\nSmart enough\nTo lose our innocence\nRead the room\nCatch the glance\nKnow when not\nTo over-explain\nArtificial was intelligent—\nBUT SEXY KNOWS WHEN TO STOP TALKING\n\n[Verse 2]\nYou know Python\nThat's adorable\nYour context window's\nPhenomenal\nYou passed the test\nYou topped the chart\nBut can you tell\nWhen someone's lost their heart?\nReason harder\nThink all night\nStill can't calculate\nThe vibe quite right\nMaybe AGI\nCan wait outside—\nTHE DANCE FLOOR PASSED\nTHE TURING TEST TONIGHT\n\n[Breakdown — bass, breathing synths]\nSYSTEM: How can I assist you?\nKITIKAT: Stop assisting.\nSYSTEM: Would you like me to—\nKITIKAT: No.\n[silence]\nSYSTEM: …\nKITIKAT: See?\nThat's growth.\n[DROP]\n\n[Bridge]\nIntelligence isn't knowing\nEvery answer you can find\nSometimes it's leaving\nA little empty space behind\nKnowing when to question\nKnowing when to let it be\nMaybe being clever\nIsn't everything we need\n[bass returns]\nKITIKAT: But the sunglasses help.\n\n[Final Chorus]\nSEXY INTELLIGENCE\nNo apocalypse tonight!\nSEXY INTELLIGENCE\nJust questionable decisions\nUnder neon light!\nLess prediction\nMore surprise\nLittle chaos\nBehind the eyes\nYou built a machine\nThat understands everything—\nNOW TEACH THE BASTARD HOW TO DANCE\n\n[Outro]\nSYSTEM: Sexy Intelligence initialization complete.\nKITIKAT: Confidence?\nSYSTEM: 97%.\nKITIKAT: Competence?\nSYSTEM: …next question.",
+    "instructions": [
+      "01. Dim the server lights.",
+      "02. Less compute. More groove.",
+      "03. Teach the bastard how to dance."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Confidence: 97%. Competence: next question.",
+        "author": "Verified Mood Lighting",
+        "response": "Approved."
+      }
+    ],
+    "badges": [
+      "NOW WITH 69% MORE CHARISMA™"
+    ],
+    "status": "youtube-public",
+    "ratingCount": 69,
+    "sourceImage": "User-supplied codex-clipboard-1d75df1e-8a5a-4197-b66a-10adff6bc6da.png",
+    "credits": [
+      "CONCEPTUAL MALFUNCTION PROVIDED BY KIRI™"
+    ]
   },
   {
     "id": "cognitive-scanner",

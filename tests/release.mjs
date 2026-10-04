@@ -8,6 +8,6 @@ assert.ok(html.includes(`src="${release['app.js']}"`));assert.ok(html.includes(`
 const app=read(release['app.js']);
 for(const name of ['scanner.js','tracks.json','stickers/index.json'])assert.ok(app.includes(release[name]),`Unversioned dependency: ${name}`);
 assert.ok(read(release['scanner.js']).includes(release['scanner-diagnosis.js']));
-const products=JSON.parse(read(release['tracks.json']));assert.equal(products.filter(t=>t.kind==='scanner').length,1);assert.equal(products.filter(t=>t.trackNumber).length,7);
+const products=JSON.parse(read(release['tracks.json']));assert.equal(products.filter(t=>t.kind==='scanner').length,1);assert.equal(products.filter(t=>t.trackNumber).length,8);
 assert.ok(html.includes('id="scanner-dialog"'));assert.ok(read(release['styles.css']).includes('.scan-trigger'));
 console.log('Passed: cache-safe release references matching scanner modules, styling, dialog, and premium catalog data.');
