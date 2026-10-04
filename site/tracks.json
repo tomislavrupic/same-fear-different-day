@@ -13,8 +13,8 @@
     "coverImage": "assets/track-01.webp",
     "audioFile": "assets/track-01.mp3",
     "videoFile": "01/SHOW_ME_ON_THE_DOLL_Final.mp4",
-    "youtubeId": null,
-    "youtubeUrl": null,
+    "youtubeId": "XRPCaab1-FE",
+    "youtubeUrl": "https://youtu.be/XRPCaab1-FE",
     "description": "Finally, an action figure that says the quiet parts out loud. Fully articulated opinions. Independently movable goalposts.",
     "features": [
       "5 common arguments included",
@@ -43,7 +43,8 @@
     ],
     "status": "local-media-available",
     "ratingCount": 124,
-    "sourceImage": null
+    "sourceImage": null,
+    "youtubeStatus": "private"
   },
   {
     "id": "track-02",
@@ -59,8 +60,8 @@
     "coverImage": "assets/track-02.webp",
     "audioFile": "assets/track-02.mp3",
     "videoFile": "02/WE CAN'T FATHOM NUANCE.mov",
-    "youtubeId": null,
-    "youtubeUrl": null,
+    "youtubeId": "Mn3z8kauNVk",
+    "youtubeUrl": "https://youtu.be/Mn3z8kauNVk",
     "description": "The educational sorting game for a world with only two boxes. Includes a third box that everyone finds deeply upsetting.",
     "features": [
       "TRUE / FALSE / IT DEPENDS sorting",
@@ -88,7 +89,8 @@
       "TESTED ON HUMANS"
     ],
     "status": "local-media-available",
-    "ratingCount": 97
+    "ratingCount": 97,
+    "youtubeStatus": "private"
   },
   {
     "id": "track-03",
@@ -104,8 +106,8 @@
     "coverImage": "assets/track-03.webp",
     "audioFile": "assets/track-03.mp3",
     "videoFile": "03/GOD GAVE ME ANOTHER DAY TO PISS YOU OFF.mov",
-    "youtubeId": null,
-    "youtubeUrl": null,
+    "youtubeId": "xezyLOWuhR0",
+    "youtubeUrl": "https://youtu.be/xezyLOWuhR0",
     "description": "Start your morning with faith, sweat, spite, and a surprisingly healthy boundary. Motivation sold with questionable judgment.",
     "features": [
       "Haters stretch",
@@ -133,7 +135,8 @@
       "TESTED ON HUMANS"
     ],
     "status": "local-media-available",
-    "ratingCount": 181
+    "ratingCount": 181,
+    "youtubeStatus": "private"
   },
   {
     "id": "track-04",
@@ -149,8 +152,8 @@
     "coverImage": "assets/track-04.webp",
     "audioFile": "assets/track-04.mp3",
     "videoFile": "04/DELEGATING THINKING TO A SPREADSHEET.mov",
-    "youtubeId": null,
-    "youtubeUrl": null,
+    "youtubeId": "NUWQm_JyHts",
+    "youtubeUrl": "https://youtu.be/NUWQm_JyHts",
     "description": "Why have a thought when you could have a cell reference? Twelve floppy disks of professionally formatted uncertainty.",
     "features": [
       "12 imaginary floppy disks",
@@ -178,7 +181,8 @@
       "Now With 30% More Independent Thought!"
     ],
     "status": "local-media-available",
-    "ratingCount": 143
+    "ratingCount": 143,
+    "youtubeStatus": "private"
   },
   {
     "id": "track-05",
@@ -194,8 +198,8 @@
     "coverImage": "assets/track-05.webp",
     "audioFile": "assets/track-05.mp3",
     "videoFile": "05 /THE ALGORITHM SENT ME YOU.mov",
-    "youtubeId": null,
-    "youtubeUrl": null,
+    "youtubeId": "5o2p2EtMhOc",
+    "youtubeUrl": "https://youtu.be/5o2p2EtMhOc",
     "description": "A recommendation service with an alarming amount of personal information and one unexpectedly good suggestion: another human.",
     "features": [
       "Human connection protocol",
@@ -223,7 +227,8 @@
       "TESTED ON HUMANS"
     ],
     "status": "local-media-available",
-    "ratingCount": 202
+    "ratingCount": 202,
+    "youtubeStatus": "private"
   },
   {
     "id": "track-06",
@@ -239,8 +244,8 @@
     "coverImage": "assets/track-06.webp",
     "audioFile": "assets/track-06.mp3",
     "videoFile": "06/MOTHS TO THE LIGHT.mov",
-    "youtubeId": null,
-    "youtubeUrl": null,
+    "youtubeId": "f8NQQLvwCUQ",
+    "youtubeUrl": "https://youtu.be/f8NQQLvwCUQ",
     "description": "A lamp that understands your attention span and intends to keep it. Now with personalized outrage settings.",
     "features": [
       "Personalized attention harvesting",
@@ -268,7 +273,8 @@
       "TESTED ON HUMANS"
     ],
     "status": "local-media-available",
-    "ratingCount": 306
+    "ratingCount": 306,
+    "youtubeStatus": "private"
   },
   {
     "id": "track-07",
@@ -284,8 +290,8 @@
     "coverImage": "assets/track-07.webp",
     "audioFile": "assets/track-07.mp3",
     "videoFile": "07/I NEED MORE COFFEE.mov",
-    "youtubeId": null,
-    "youtubeUrl": null,
+    "youtubeId": "wfsSzI7kthY",
+    "youtubeUrl": "https://youtu.be/wfsSzI7kthY",
     "description": "Boot your brain with cognitive startup fluid. For unfinished albums, recursive creativity, accidental websites, and mornings.",
     "features": [
       "Cognitive cold start",
@@ -313,6 +319,7 @@
       "Now With 40% More Morning™"
     ],
     "status": "local-media-available",
-    "ratingCount": 87
+    "ratingCount": 87,
+    "youtubeStatus": "private"
   }
 ]
