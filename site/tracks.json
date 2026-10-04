@@ -44,7 +44,7 @@
     "status": "local-media-available",
     "ratingCount": 124,
     "sourceImage": null,
-    "youtubeStatus": "private"
+    "youtubeStatus": "public"
   },
   {
     "id": "track-02",
@@ -90,7 +90,7 @@
     ],
     "status": "local-media-available",
     "ratingCount": 97,
-    "youtubeStatus": "private"
+    "youtubeStatus": "public"
   },
   {
     "id": "track-03",
@@ -136,7 +136,7 @@
     ],
     "status": "local-media-available",
     "ratingCount": 181,
-    "youtubeStatus": "private"
+    "youtubeStatus": "public"
   },
   {
     "id": "track-04",
@@ -182,7 +182,7 @@
     ],
     "status": "local-media-available",
     "ratingCount": 143,
-    "youtubeStatus": "private"
+    "youtubeStatus": "public"
   },
   {
     "id": "track-05",
@@ -228,7 +228,7 @@
     ],
     "status": "local-media-available",
     "ratingCount": 202,
-    "youtubeStatus": "private"
+    "youtubeStatus": "public"
   },
   {
     "id": "track-06",
@@ -274,7 +274,7 @@
     ],
     "status": "local-media-available",
     "ratingCount": 306,
-    "youtubeStatus": "private"
+    "youtubeStatus": "public"
   },
   {
     "id": "track-07",
@@ -320,7 +320,7 @@
     ],
     "status": "local-media-available",
     "ratingCount": 87,
-    "youtubeStatus": "private"
+    "youtubeStatus": "public"
   },
   {
     "id": "cognitive-scanner",
