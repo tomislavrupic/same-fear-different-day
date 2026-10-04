@@ -1,6 +1,8 @@
 from pathlib import Path
 import json,subprocess,hashlib
 root=Path(__file__).resolve().parents[1]
+previous={}
+if (root/'site'/'tracks.json').exists(): previous={t['id']:t for t in json.loads((root/'site'/'tracks.json').read_text())}
 titles=['AI HATER',"WE CAN'T FATHOM NUANCE",'GOD GAVE ME ANOTHER DAY TO PISS YOU OFF','DELEGATING THINKING TO A SPREADSHEET','THE ALGORITHM SENT ME YOU','MOTHS TO THE LIGHT','I NEED MORE COFFEE']
 types=['Deluxe Action Figure','Educational Sorting Game','Morning Workout VHS','Productivity Suite — 12 Floppy Disks','Recommendation Service','Personalized Engagement Lamp','CAFFEINE()™ Cognitive Startup Fluid']
 depts=['Creative Resistance','Cognitive Development','Personal Wellness','Workplace Solutions','Human Connection','Attention Management','Cognitive Startup']
@@ -29,6 +31,11 @@ for i,title in enumerate(titles):
    metadata.append({'file':str(f.relative_to(root)),'bytes':f.stat().st_size,'sha256':hashlib.file_digest(f.open('rb'),'sha256').hexdigest(),'duration':float(info['format']['duration']),'streams':[{'type':s['codec_type'],'codec':s.get('codec_name'),'width':s.get('width'),'height':s.get('height')} for s in info['streams']]})
  tracks.append(dict(id=slug,trackNumber=n,title=title+'™',subtitle=subtitles[i],productType=types[i],department=depts[i],conditions=conditions[i],coverImage=f'assets/{slug}.webp' if image else 'assets/unavailable.svg',audioFile=f'assets/{slug}.mp3' if wav else None,videoFile=str(mov.relative_to(root)) if mov else None,youtubeId=None,youtubeUrl=None,description=descriptions[i],features=features[i],warnings=[warnings[i]],lyrics=None,instructions=['01. Locate your remaining attention.','02. Press play. Allow the song to finish a thought.','03. Repeat as emotionally indicated.'],reviews=[{'rating':5,'text':quotes[i],'author':'Verified Engager','response':'Thank you for your engagement.'}],badges=[subtitles[i] if n in [4,7] else 'TESTED ON HUMANS'],status='local-media-available' if wav else 'awaiting-media',ratingCount=[124,97,181,143,202,306,87][i],sourceImage=str(image) if image else None))
  manifest.append({'id':slug,'title':title,'description':f'{title}\nFrom SAME FEAR, DIFFERENT DAY™.\nA KitiKat Studios Production.\nConsumer Products for a Dysfunctional Civilization.','thumbnail':f'site/assets/{slug}-thumbnail.jpg' if image else None,'sources':metadata,'youtubeId':None,'youtubeUrl':None,'uploadStatus':'not-uploaded','blocker':'Verify authorized channel and existing uploads before upload' if mov else 'Missing track 01 media and cover','reviewNote':'Video and WAV durations differ by > 1 second; confirm intended final master' if len(metadata)==2 and abs(metadata[0]['duration']-metadata[1]['duration'])>1 else 'Technical metadata verified; editorial finality unconfirmed'})
+for t in tracks:
+ old=previous.get(t['id'],{})
+ for key in ['youtubeId','youtubeUrl','youtubeStatus','lyrics']:
+  if key in old: t[key]=old[key]
+ if t['trackNumber']==1 and (root/'site'/'assets'/'track-01.webp').exists(): t['coverImage']='assets/track-01.webp'
 (root/'site'/'tracks.json').write_text(json.dumps(tracks,indent=2,ensure_ascii=False))
 (root/'upload-manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False))
-print('Prepared 7 products, 6 MP3 derivatives, and checksummed manifest.')
+print(f'Prepared {len(tracks)} products, {sum(bool(t["audioFile"]) for t in tracks)} MP3 derivatives, and checksummed manifest.')

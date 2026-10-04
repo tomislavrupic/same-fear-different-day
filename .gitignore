@@ -10,3 +10,4 @@ tracks/
 *.png
 output/
 upload-manifest.json
+__pycache__/
