@@ -1,0 +1,318 @@
+[
+  {
+    "id": "track-01",
+    "trackNumber": 1,
+    "title": "AI HATER™",
+    "subtitle": "Show Me on the Doll",
+    "productType": "Deluxe Action Figure",
+    "department": "Creative Resistance",
+    "conditions": [
+      "Outrage",
+      "Creative Block"
+    ],
+    "coverImage": "assets/track-01.webp",
+    "audioFile": "assets/track-01.mp3",
+    "videoFile": "01/SHOW_ME_ON_THE_DOLL_Final.mp4",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "Finally, an action figure that says the quiet parts out loud. Fully articulated opinions. Independently movable goalposts.",
+    "features": [
+      "5 common arguments included",
+      "Advanced goalpost articulation",
+      "No batteries. Plenty of energy."
+    ],
+    "warnings": [
+      "May reveal more about the user than the product."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Locate your remaining attention.",
+      "02. Press play. Allow the song to finish a thought.",
+      "03. Repeat as emotionally indicated."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Finally, a toy that understands me.",
+        "author": "Verified Engager",
+        "response": "Thank you for your engagement."
+      }
+    ],
+    "badges": [
+      "TESTED ON HUMANS"
+    ],
+    "status": "local-media-available",
+    "ratingCount": 124,
+    "sourceImage": null
+  },
+  {
+    "id": "track-02",
+    "trackNumber": 2,
+    "title": "WE CAN'T FATHOM NUANCE™",
+    "subtitle": "An Extremely Nuanced Song About Everyone Being Exactly the Same™",
+    "productType": "Educational Sorting Game",
+    "department": "Cognitive Development",
+    "conditions": [
+      "Binary Thinking",
+      "Excessive Certainty"
+    ],
+    "coverImage": "assets/track-02.webp",
+    "audioFile": "assets/track-02.mp3",
+    "videoFile": "02/WE CAN'T FATHOM NUANCE.mov",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "The educational sorting game for a world with only two boxes. Includes a third box that everyone finds deeply upsetting.",
+    "features": [
+      "TRUE / FALSE / IT DEPENDS sorting",
+      "Compatible with changing your mind",
+      "Nuance sold separately (included anyway)"
+    ],
+    "warnings": [
+      "Choking hazard: deeply held assumptions."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Locate your remaining attention.",
+      "02. Press play. Allow the song to finish a thought.",
+      "03. Repeat as emotionally indicated."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Completely changed an opinion I didn’t have.",
+        "author": "Verified Engager",
+        "response": "Thank you for your engagement."
+      }
+    ],
+    "badges": [
+      "TESTED ON HUMANS"
+    ],
+    "status": "local-media-available",
+    "ratingCount": 97
+  },
+  {
+    "id": "track-03",
+    "trackNumber": 3,
+    "title": "GOD GAVE ME ANOTHER DAY TO PISS YOU OFF™",
+    "subtitle": "A brighter tomorrow. Anyway.",
+    "productType": "Morning Workout VHS",
+    "department": "Personal Wellness",
+    "conditions": [
+      "Outrage",
+      "Low Energy"
+    ],
+    "coverImage": "assets/track-03.webp",
+    "audioFile": "assets/track-03.mp3",
+    "videoFile": "03/GOD GAVE ME ANOTHER DAY TO PISS YOU OFF.mov",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "Start your morning with faith, sweat, spite, and a surprisingly healthy boundary. Motivation sold with questionable judgment.",
+    "features": [
+      "Haters stretch",
+      "Spite cardio",
+      "Upper body boundaries"
+    ],
+    "warnings": [
+      "May increase confidence, sarcasm, and overall tolerance for nonsense."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Locate your remaining attention.",
+      "02. Press play. Allow the song to finish a thought.",
+      "03. Repeat as emotionally indicated."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I’m somehow in a better mood and a worse person.",
+        "author": "Verified Engager",
+        "response": "Thank you for your engagement."
+      }
+    ],
+    "badges": [
+      "TESTED ON HUMANS"
+    ],
+    "status": "local-media-available",
+    "ratingCount": 181
+  },
+  {
+    "id": "track-04",
+    "trackNumber": 4,
+    "title": "DELEGATING THINKING TO A SPREADSHEET™",
+    "subtitle": "Now With 30% More Independent Thought!",
+    "productType": "Productivity Suite — 12 Floppy Disks",
+    "department": "Workplace Solutions",
+    "conditions": [
+      "Overthinking",
+      "Existential Dread"
+    ],
+    "coverImage": "assets/track-04.webp",
+    "audioFile": "assets/track-04.mp3",
+    "videoFile": "04/DELEGATING THINKING TO A SPREADSHEET.mov",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "Why have a thought when you could have a cell reference? Twelve floppy disks of professionally formatted uncertainty.",
+    "features": [
+      "12 imaginary floppy disks",
+      "Unlimited circular references",
+      "False sense of control"
+    ],
+    "warnings": [
+      "Do not outsource the person operating the spreadsheet."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Locate your remaining attention.",
+      "02. Press play. Allow the song to finish a thought.",
+      "03. Repeat as emotionally indicated."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "My job has never been this meaningless.",
+        "author": "Verified Engager",
+        "response": "Thank you for your engagement."
+      }
+    ],
+    "badges": [
+      "Now With 30% More Independent Thought!"
+    ],
+    "status": "local-media-available",
+    "ratingCount": 143
+  },
+  {
+    "id": "track-05",
+    "trackNumber": 5,
+    "title": "THE ALGORITHM SENT ME YOU™",
+    "subtitle": "For Once, It Got Something Right™",
+    "productType": "Recommendation Service",
+    "department": "Human Connection",
+    "conditions": [
+      "Loneliness",
+      "Algorithmic Confusion"
+    ],
+    "coverImage": "assets/track-05.webp",
+    "audioFile": "assets/track-05.mp3",
+    "videoFile": "05 /THE ALGORITHM SENT ME YOU.mov",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "A recommendation service with an alarming amount of personal information and one unexpectedly good suggestion: another human.",
+    "features": [
+      "Human connection protocol",
+      "Unexpected kindness included",
+      "No subscription to loneliness required"
+    ],
+    "warnings": [
+      "Good people still exist. Handle with care."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Locate your remaining attention.",
+      "02. Press play. Allow the song to finish a thought.",
+      "03. Repeat as emotionally indicated."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "We met in the comments and now we’re trauma bonded.",
+        "author": "Verified Engager",
+        "response": "Thank you for your engagement."
+      }
+    ],
+    "badges": [
+      "TESTED ON HUMANS"
+    ],
+    "status": "local-media-available",
+    "ratingCount": 202
+  },
+  {
+    "id": "track-06",
+    "trackNumber": 6,
+    "title": "MOTHS TO THE LIGHT™",
+    "subtitle": "Complaining About the Lamp May Attract Additional Lamps.",
+    "productType": "Personalized Engagement Lamp",
+    "department": "Attention Management",
+    "conditions": [
+      "Algorithmic Confusion",
+      "Existential Dread"
+    ],
+    "coverImage": "assets/track-06.webp",
+    "audioFile": "assets/track-06.mp3",
+    "videoFile": "06/MOTHS TO THE LIGHT.mov",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "A lamp that understands your attention span and intends to keep it. Now with personalized outrage settings.",
+    "features": [
+      "Personalized attention harvesting",
+      "Infinite refresh compatibility",
+      "Warm glow of being perceived"
+    ],
+    "warnings": [
+      "Complaining about the lamp may attract additional lamps."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Locate your remaining attention.",
+      "02. Press play. Allow the song to finish a thought.",
+      "03. Repeat as emotionally indicated."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I fucking hate this.",
+        "author": "Verified Engager",
+        "response": "Thank you for your engagement."
+      }
+    ],
+    "badges": [
+      "TESTED ON HUMANS"
+    ],
+    "status": "local-media-available",
+    "ratingCount": 306
+  },
+  {
+    "id": "track-07",
+    "trackNumber": 7,
+    "title": "I NEED MORE COFFEE™",
+    "subtitle": "Now With 40% More Morning™",
+    "productType": "CAFFEINE()™ Cognitive Startup Fluid",
+    "department": "Cognitive Startup",
+    "conditions": [
+      "Low Energy",
+      "Creative Block"
+    ],
+    "coverImage": "assets/track-07.webp",
+    "audioFile": "assets/track-07.mp3",
+    "videoFile": "07/I NEED MORE COFFEE.mov",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "Boot your brain with cognitive startup fluid. For unfinished albums, recursive creativity, accidental websites, and mornings.",
+    "features": [
+      "Cognitive cold start",
+      "Sustained overthinking",
+      "May cause additional tracks"
+    ],
+    "warnings": [
+      "If creativity persists, you are probably fine."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Locate your remaining attention.",
+      "02. Press play. Allow the song to finish a thought.",
+      "03. Repeat as emotionally indicated."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I bought this at 2 AM. It is now a website.",
+        "author": "Verified Engager",
+        "response": "Thank you for your engagement."
+      }
+    ],
+    "badges": [
+      "Now With 40% More Morning™"
+    ],
+    "status": "local-media-available",
+    "ratingCount": 87
+  }
+]
