@@ -1,0 +1,6 @@
+{
+  "name": "same-fear-different-day",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node tests/scanner.mjs" }
+}

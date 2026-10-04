@@ -321,5 +321,50 @@
     "status": "local-media-available",
     "ratingCount": 87,
     "youtubeStatus": "private"
+  },
+  {
+    "id": "cognitive-scanner",
+    "kind": "scanner",
+    "trackNumber": null,
+    "title": "LLM BRAIN ROT DETECTOR™",
+    "subtitle": "Advanced Cognitive Authenticity Scanner",
+    "productType": "Advanced Cognitive Authenticity Scanner",
+    "department": "Cognitive Entertainment & Existential Diagnostics",
+    "conditions": [
+      "Overthinking",
+      "Algorithmic Confusion",
+      "Excessive Certainty",
+      "Existential Dread"
+    ],
+    "coverImage": "assets/cognitive-scanner.webp",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "Premium diagnostic nonsense. Scan yourself, question the result, blame the model. Now with 73% more questions.",
+    "features": [
+      "Randomized fictional diagnostics",
+      "99% certainty bottleneck",
+      "Model D13 category instability"
+    ],
+    "warnings": [
+      "Not a medical device. Not a diagnostic tool. Just a cat with a scanner and a lot of opinions."
+    ],
+    "lyrics": null,
+    "instructions": [],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I scanned until I agreed with it. Science.",
+        "author": "Verified Subject",
+        "response": "Your certainty has been noted."
+      }
+    ],
+    "badges": [
+      "PREMIUM",
+      "NOW WITH 73% MORE QUESTIONS"
+    ],
+    "status": "interactive-tool-available",
+    "ratingCount": 413
   }
 ]

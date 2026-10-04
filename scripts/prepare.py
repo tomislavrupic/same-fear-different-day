@@ -36,6 +36,7 @@ for t in tracks:
  for key in ['youtubeId','youtubeUrl','youtubeStatus','lyrics']:
   if key in old: t[key]=old[key]
  if t['trackNumber']==1 and (root/'site'/'assets'/'track-01.webp').exists(): t['coverImage']='assets/track-01.webp'
+tracks.extend(t for t in previous.values() if t.get('kind') == 'scanner')
 (root/'site'/'tracks.json').write_text(json.dumps(tracks,indent=2,ensure_ascii=False))
 (root/'upload-manifest.json').write_text(json.dumps(manifest,indent=2,ensure_ascii=False))
 print(f'Prepared {len(tracks)} products, {sum(bool(t["audioFile"]) for t in tracks)} MP3 derivatives, and checksummed manifest.')

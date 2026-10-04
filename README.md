@@ -21,3 +21,9 @@ Push to `main` in `tomislavrupic/same-fear-different-day`. The Pages workflow pu
 ## Upload review
 
 `upload-manifest.json` is local only: source checksums, technical metadata, intended descriptions, candidate thumbnails and returned video IDs. It contains no credentials and is excluded from deployment. Track 03's MOV is about 5.6 seconds longer than its WAV; confirm the intended master before changing uploads. No lyrics were supplied.
+
+## Premium Cognitive Authenticity Scanner
+
+The detector is an interactive premium product in the same catalog data, plus a persistent header button. `site/scanner.js` controls a fullscreen native dialog with timed fictional checks, a 99% pause, randomized metrics, repeat scans and model-blaming replies. `site/scanner-diagnosis.js` chooses exactly one D13 slot out of 13, four contamination slots, and eight probably-human slots. No brain scan, model call, medical diagnosis, or user-data transmission occurs. Only the scan-attempt counter is stored locally. Closing cancels timers and releases scrolling. Supplied detector artwork is optimized to WebP without changing the original.
+
+Run `npm test` for probability and scanner lifecycle checks; no packages are required.
