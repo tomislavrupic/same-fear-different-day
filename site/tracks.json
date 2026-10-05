@@ -638,7 +638,7 @@
     "trackNumber": null,
     "title": "NEKO CITY™",
     "subtitle": "A whole city of questionable possibilities.",
-    "productType": "Interactive Creative Universe",
+    "productType": "Vintage Game Box · Interactive Creative Universe",
     "department": "Recreational Worldbuilding & Urban Distraction",
     "conditions": [
       "Creative Block",
@@ -646,7 +646,7 @@
       "Existential Dread",
       "Algorithmic Confusion"
     ],
-    "coverImage": "assets/neko-city-product.jpg",
+    "coverImage": "assets/neko-city-vintage-game-box.jpg",
     "destinationUrl": "https://tomislav-rupic.com/",
     "linkLabel": "VISIT NEKO CITY →",
     "description": "Leave the shopping aisle and step into Neko City: the neon-lit home of Pixel Records, KitiKat and a city full of creative detours. One imaginary city. Many very real distractions.",
@@ -680,7 +680,8 @@
       }
     ],
     "badges": [
-      "EXPLORABLE UNIVERSE"
+      "BROWSER EDITION",
+      "73% MORE DETOURS"
     ],
     "status": "destination-available",
     "ratingCount": 404
