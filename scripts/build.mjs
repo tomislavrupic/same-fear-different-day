@@ -21,5 +21,9 @@ await fingerprint('app.js',s=>s.replace("'./scanner.js'",`'./${versions['scanner
 await fingerprint('styles.css');
 const html=(await readFile(path.join(root,'site/index.html'),'utf8')).replace('href="styles.css"',`href="${versions['styles.css']}"`).replace('src="app.js"',`src="${versions['app.js']}"`);
 await writeFile(path.join(dest,'index.html'),html);
+await fingerprint('ai-hater/style.css');
+await fingerprint('ai-hater/critic.js');
+const criticHTML=(await readFile(path.join(root,'site/ai-hater/index.html'),'utf8')).replace('href="style.css"',`href="${path.basename(versions['ai-hater/style.css'])}"`).replace('src="critic.js"',`src="${path.basename(versions['ai-hater/critic.js'])}"`);
+await writeFile(path.join(dest,'ai-hater/index.html'),criticHTML);
 await writeFile(path.join(dest,'release.json'),JSON.stringify(versions,null,2));
 console.log('Built cache-safe static release:',JSON.stringify(versions));
