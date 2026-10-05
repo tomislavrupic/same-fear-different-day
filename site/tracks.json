@@ -376,6 +376,152 @@
     ]
   },
   {
+    "id": "track-09",
+    "trackNumber": 9,
+    "title": "PREMIUM OUTRAGE™",
+    "subtitle": "Collect negativity. Create something better.",
+    "productType": "Hostility-to-Content Conversion Kit",
+    "department": "Questionable Decisions",
+    "conditions": [
+      "Outrage",
+      "Creative Block"
+    ],
+    "coverImage": "assets/premium-outrage.jpg",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": "EfITjURgAgE",
+    "youtubeUrl": "https://youtu.be/EfITjURgAgE",
+    "youtubeStatus": "unlisted",
+    "description": "Complaints arrive. Songs come out. A collaboration kit for turning premium hostility into something worth hearing. People complain. We compose.",
+    "features": [
+      "Complaint form and hurt feelings report",
+      "Vocal collaboration with Denise",
+      "KitiKat processing unit",
+      "Converts outrage into content",
+      "Now converts 30% more hostility into content™"
+    ],
+    "warnings": [
+      "May cause unexpected creativity."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Collect one bad take.",
+      "02. Find a collaborator.",
+      "03. Create something better."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I filed a complaint. It came back as a song.",
+        "author": "Verified Questionable Purchase",
+        "response": "Your complaint is important to us. It has a chorus."
+      }
+    ],
+    "badges": [
+      "NEW ARRIVAL"
+    ],
+    "status": "youtube-unlisted",
+    "ratingCount": 109
+  },
+  {
+    "id": "track-10",
+    "trackNumber": 10,
+    "title": "UNDERGOING MAINTENANCE™",
+    "subtitle": "Patch today. Exist tomorrow.",
+    "productType": "Human Firmware Update Kit",
+    "department": "Personal Maintenance",
+    "conditions": [
+      "Overthinking",
+      "Low Energy",
+      "Existential Dread"
+    ],
+    "coverImage": "assets/undergoing-maintenance.jpg",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": "Y1FvWEkuZ_E",
+    "youtubeUrl": "https://youtu.be/Y1FvWEkuZ_E",
+    "youtubeStatus": "unlisted",
+    "description": "Still loading something better. Patch emotions, rebuild patterns and keep going with the Human Firmware Update Kit. Same human. Different bangers.",
+    "features": [
+      "14 imaginary install disks",
+      "Emergency coffee / patch fuel",
+      "Backup personality cartridge",
+      "KitiKat certified recovery disk",
+      "Now with 17% fewer legacy issues™"
+    ],
+    "warnings": [
+      "Do not turn off human during installation. Progress over perfection."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Make room for the update.",
+      "02. Patch emotions. Rebuild patterns.",
+      "03. Keep going. This may take a while."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "Still me. Slightly fewer system errors.",
+        "author": "Verified Questionable Purchase",
+        "response": "Previous personality retained for compatibility."
+      }
+    ],
+    "badges": [
+      "NEW ARRIVAL"
+    ],
+    "status": "youtube-unlisted",
+    "ratingCount": 110
+  },
+  {
+    "id": "track-11",
+    "trackNumber": 11,
+    "title": "HEY. THIS IS ALGO.™",
+    "subtitle": "Not omniscient. Just curious.",
+    "productType": "ALGO™ Human Signal Recommendation Service",
+    "department": "Human Connection",
+    "conditions": [
+      "Algorithmic Confusion",
+      "Loneliness",
+      "Creative Block"
+    ],
+    "coverImage": "assets/hey-this-is-algo.jpg",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": "dmlN8905Rss",
+    "youtubeUrl": "https://youtu.be/dmlN8905Rss",
+    "youtubeStatus": "unlisted",
+    "description": "You asked for something real, so Algo sent you people. Observe, connect, mix, surprise, repeat. Different humans, same chaos, new stories — a more interesting tomorrow.",
+    "features": [
+      "Observe · connect · mix · surprise · repeat",
+      "Relevance, creativity and weird beauty",
+      "Human signals included",
+      "Good inputs. Better humans.",
+      "More you, anyway"
+    ],
+    "warnings": [
+      "No system knows what matters before a human makes it matter."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Ask for something real.",
+      "02. Follow a human signal.",
+      "03. Make something that matters."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "The recommendation was a person. Unexpectedly good.",
+        "author": "Verified Questionable Purchase",
+        "response": "Want another recommendation?"
+      }
+    ],
+    "badges": [
+      "NEW ARRIVAL"
+    ],
+    "status": "youtube-unlisted",
+    "ratingCount": 111
+  },
+  {
     "id": "ai-antichrist",
     "kind": "product",
     "trackNumber": null,
