@@ -12,3 +12,5 @@
 #scan-result-title{scroll-margin-top:85px}
 
 .game-link{display:block;text-align:center}.detail-art+.game-link{margin-top:12px}
+
+.neko-return{display:block;margin:15px 2px;background:#07152a;color:#fff;border:1px solid #375478;border-radius:5px;overflow:hidden;transition:box-shadow .2s}.neko-return img{display:block;width:100%;height:auto}.neko-return strong{display:block;padding:11px 10px 4px;font-size:12px;color:#7ce8ef}.neko-return span{display:block;padding:0 10px 11px;font-size:10px;color:#c4cddd}.neko-return:hover{box-shadow:0 0 14px #ed087f66}.neko-return:hover strong{color:#fff}
