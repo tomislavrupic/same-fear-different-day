@@ -10,3 +10,5 @@
 @media(max-width:1100px){.masthead{gap:10px}.scan-trigger{padding:10px 7px;font-size:9px}.scan-layout{gap:22px;padding:25px}.scan-topbar{font-size:9px}}
 @media(max-width:760px){.scan-trigger{order:4;width:100%;padding:10px;font-size:11px;display:flex;justify-content:center;align-items:center;gap:14px}.scan-trigger span{margin:0}.scan-layout{display:block;padding:22px 18px}.scan-art{display:none!important}.scan-console h1{font-size:29px;letter-spacing:-1px}.scan-topbar{font-size:8px;padding-left:18px;line-height:1.6}.scan-disclaimer{font-size:10px}.scan-readings>div{padding:12px 9px;font-size:10px}.scan-readings strong{font-size:11px}.scan-diagnosis h2{font-size:19px}.scan-actions{flex-direction:column}.scan-actions button{width:100%;min-height:44px}.scan-console .eyebrow{font-size:9px}.premium-product .stock{font-size:8px}}
 #scan-result-title{scroll-margin-top:85px}
+
+.game-link{display:block;text-align:center}.detail-art+.game-link{margin-top:12px}

@@ -434,6 +434,59 @@
     "ratingCount": 73
   },
   {
+    "id": "kitikat-checkpoint",
+    "kind": "game",
+    "trackNumber": null,
+    "title": "KITIKAT CHECKPOINT™",
+    "subtitle": "The store is on the other side.",
+    "productType": "AI Hater Fighting Game · Boxed Browser Edition",
+    "department": "Recreational Conflict & Retail Access",
+    "conditions": [
+      "Outrage",
+      "Creative Block",
+      "Excessive Certainty",
+      "Algorithmic Confusion"
+    ],
+    "coverImage": "assets/kitikat-checkpoint-game.jpg",
+    "gameUrl": "https://tomislav-rupic.com/kitikat-checkpoint",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "The AI Hater is standing between you and questionable consumer products. Enter the checkpoint, fight the bad takes, and find your way to the KitiKat store. A real browser game in a completely fictional box.",
+    "features": [
+      "Play in your browser",
+      "Fight the AI Hater",
+      "No installation required",
+      "Collectible packaging (entirely imaginary)",
+      "Now with 73% more bad takes™"
+    ],
+    "warnings": [
+      "May cause competitive feelings, suspicious enjoyment and an urge to visit the store. Physical box not included."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Press PLAY THE GAME.",
+      "02. Follow the controls shown at the checkpoint.",
+      "03. Fight the AI Hater.",
+      "04. Proceed toward questionable solutions."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I came to buy nothing. Somehow I had to fight for it.",
+        "author": "Verified Window Shopper",
+        "response": "Retail has become a contact sport."
+      }
+    ],
+    "badges": [
+      "BROWSER GAME",
+      "73% MORE BAD TAKES"
+    ],
+    "status": "game-available",
+    "ratingCount": 73
+  },
+  {
     "id": "cognitive-scanner",
     "kind": "scanner",
     "trackNumber": null,
