@@ -2,5 +2,9 @@
   "name": "same-fear-different-day",
   "private": true,
   "type": "module",
-  "scripts": { "test": "node tests/scanner.mjs", "build": "node scripts/build.mjs" }
+  "scripts": {
+    "test": "node tests/scanner.mjs && node tests/hurt-feelings.mjs",
+    "build": "node scripts/build.mjs",
+    "test:reports": "node tests/hurt-feelings-integration.mjs"
+  }
 }

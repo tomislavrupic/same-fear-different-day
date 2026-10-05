@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS reports (
+  sequence INTEGER PRIMARY KEY AUTOINCREMENT,
+  id TEXT NOT NULL UNIQUE,
+  created_at TEXT NOT NULL,
+  payload TEXT NOT NULL,
+  hidden INTEGER NOT NULL DEFAULT 0
+);
+CREATE INDEX IF NOT EXISTS reports_public ON reports(hidden, sequence DESC);

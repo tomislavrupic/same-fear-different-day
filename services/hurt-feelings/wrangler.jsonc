@@ -1,0 +1,6 @@
+{
+ "name":"kitikat-hurt-feelings", "main":"worker.js", "compatibility_date":"2026-08-06",
+ "d1_databases":[{"binding":"DB","database_name":"kitikat-hurt-feelings","database_id":"d4621036-878a-4e60-a3e4-c597ba5faa24"}],
+ "ratelimits":[{"name":"RATE_LIMIT","namespace_id":"13404","simple":{"limit":5,"period":60}}],
+ "observability":{"enabled":true}
+}

@@ -19,3 +19,10 @@ for(const product of products.filter(t=>t.adFile)) {
  }
  assert.equal(product.kind,'product');
 }
+
+const reportHTML=read('hurt-feelings/index.html');
+assert.ok(html.includes('href="hurt-feelings/"'));
+for(const name of ['hurt-feelings/style.css','hurt-feelings/report.js'])assert.ok(reportHTML.includes(path.basename(release[name])));
+const reportJS=read(release['hurt-feelings/report.js']);
+for(const name of ['hurt-feelings/options.js','hurt-feelings/config.json'])assert.ok(reportJS.includes(path.basename(release[name])));
+console.log('Passed: report page, links and fingerprinted dependencies.');

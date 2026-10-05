@@ -13,3 +13,7 @@ upload-manifest.json
 __pycache__/
 
 _deploy/
+
+services/hurt-feelings/.wrangler/
+services/hurt-feelings/.dev.vars
+.hurt-feelings-admin-token
