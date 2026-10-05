@@ -687,6 +687,62 @@
     "ratingCount": 404
   },
   {
+    "id": "ai-hater-critic",
+    "kind": "destination",
+    "trackNumber": null,
+    "title": "AI HATER™ — ART CRITIC",
+    "subtitle": "Certified wrong. Loudly.",
+    "productType": "Unqualified Art Critic · Authenticity Tribunal",
+    "department": "Unqualified Opinions",
+    "conditions": [
+      "Outrage",
+      "Excessive Certainty",
+      "Binary Thinking",
+      "Creative Block"
+    ],
+    "coverImage": "assets/ai-hater-full-packaging.jpeg",
+    "destinationUrl": "ai-hater/",
+    "linkLabel": "JUDGE MY ART →",
+    "badgeLabel": "INTERACTIVE · MODEL AH–01",
+    "destinationNote": "SATIRICAL ART CRITIC · RANDOMIZED OPINIONS",
+    "description": "Finally, an art critic with all the confidence and none of the qualifications. Submit an image, receive a confidently questionable verdict, then tell the critic how the art was actually made.",
+    "features": [
+      "Upload art. Receive prejudice.",
+      "Randomized satirical verdicts",
+      "Appeal with ARE YOU SURE?",
+      "Tell the critic: human, AI or both",
+      "On-device text recognition",
+      "Try the house art without choosing a file"
+    ],
+    "warnings": [
+      "Satire, not AI detection. OCR reads text; it cannot establish who made your art."
+    ],
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "lyrics": null,
+    "instructions": [
+      "01. Press JUDGE MY ART.",
+      "02. Choose an image or try the house art.",
+      "03. Question the verdict.",
+      "04. Trust nothing. Including this."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "It was confidently wrong about something I made myself.",
+        "author": "Verified Unimpressed Artist",
+        "response": "Your evidence has been overruled by our vibes."
+      }
+    ],
+    "badges": [
+      "MODEL AH–01"
+    ],
+    "status": "interactive-tool-available",
+    "ratingCount": 2022
+  },
+  {
     "id": "cognitive-scanner",
     "kind": "scanner",
     "trackNumber": null,
