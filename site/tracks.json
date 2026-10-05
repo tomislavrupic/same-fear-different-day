@@ -633,6 +633,59 @@
     "ratingCount": 73
   },
   {
+    "id": "neko-city",
+    "kind": "destination",
+    "trackNumber": null,
+    "title": "NEKO CITY™",
+    "subtitle": "A whole city of questionable possibilities.",
+    "productType": "Interactive Creative Universe",
+    "department": "Recreational Worldbuilding & Urban Distraction",
+    "conditions": [
+      "Creative Block",
+      "Loneliness",
+      "Existential Dread",
+      "Algorithmic Confusion"
+    ],
+    "coverImage": "assets/neko-city-product.jpg",
+    "destinationUrl": "https://tomislav-rupic.com/",
+    "linkLabel": "VISIT NEKO CITY →",
+    "description": "Leave the shopping aisle and step into Neko City: the neon-lit home of Pixel Records, KitiKat and a city full of creative detours. One imaginary city. Many very real distractions.",
+    "features": [
+      "Explore the city on tomislav-rupic.com",
+      "Pixel Records studio",
+      "Pixel Theater",
+      "ALi Gallery",
+      "Pirate Radio",
+      "Cats, neon and questionable possibilities"
+    ],
+    "warnings": [
+      "May cause prolonged exploration and an urge to make something. City cannot be shipped to your address."
+    ],
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "lyrics": null,
+    "instructions": [
+      "01. Press VISIT NEKO CITY.",
+      "02. Follow your curiosity.",
+      "03. Return when you remember what you came for."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I went back to the homepage and accidentally moved in.",
+        "author": "Verified Imaginary Resident",
+        "response": "Your rent is payable in curiosity."
+      }
+    ],
+    "badges": [
+      "EXPLORABLE UNIVERSE"
+    ],
+    "status": "destination-available",
+    "ratingCount": 404
+  },
+  {
     "id": "cognitive-scanner",
     "kind": "scanner",
     "trackNumber": null,
