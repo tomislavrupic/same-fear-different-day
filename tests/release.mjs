@@ -11,3 +11,11 @@ assert.ok(read(release['scanner.js']).includes(release['scanner-diagnosis.js']))
 const products=JSON.parse(read(release['tracks.json']));assert.equal(products.filter(t=>t.kind==='scanner').length,1);assert.equal(products.filter(t=>t.trackNumber).length,8);
 assert.ok(html.includes('id="scanner-dialog"'));assert.ok(read(release['styles.css']).includes('.scan-trigger'));
 console.log('Passed: cache-safe release references matching scanner modules, styling, dialog, and premium catalog data.');
+
+for(const product of products.filter(t=>t.adFile)) {
+ for(const asset of [product.adFile,product.adPoster,product.coverImage]) {
+  assert.ok(asset.startsWith('assets/'));
+  assert.ok(existsSync(path.join('_deploy',asset)),`Missing product ad asset: ${asset}`);
+ }
+ assert.equal(product.kind,'product');
+}

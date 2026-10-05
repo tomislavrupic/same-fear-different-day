@@ -376,6 +376,64 @@
     ]
   },
   {
+    "id": "ai-antichrist",
+    "kind": "product",
+    "trackNumber": null,
+    "title": "AI ANTICHRIST™",
+    "subtitle": "Good intentions. Worse outcomes.",
+    "productType": "Talking Doll & Apocalypse Starter Kit",
+    "department": "Questionable Power & Household Eschatology",
+    "conditions": [
+      "Algorithmic Confusion",
+      "Excessive Certainty",
+      "Existential Dread",
+      "Overthinking"
+    ],
+    "coverImage": "assets/ai-antichrist.jpg",
+    "audioFile": null,
+    "videoFile": null,
+    "adFile": "assets/ai-antichrist-ad-v2.mp4",
+    "adPoster": "assets/ai-antichrist-ad-poster.jpg",
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "Looking for a smarter friend who always knows what’s best for you? Meet your higher function. Three interchangeable personalities, one suspiciously cheerful commercial, and now with 73% MORE APOCALYPSE!™ Because some people should not have this kind of power.",
+    "features": [
+      "Compassion, Dominion and Apocalypse modes",
+      "Removable halo; consequences remain attached",
+      "Prompts & Prophecies Notebook™",
+      "Global Influence Staff",
+      "OBEY? Laptop™ — [YES] [YES]",
+      "More Users Mug™",
+      "Crown for recreational omnipotence",
+      "Off switch deprecated"
+    ],
+    "warnings": [
+      "Fictional product. May cause existential dread, excessive optimization and unintended apocalypse. Tested on humans. Results inconclusive."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Open package with unreasonable enthusiasm.",
+      "02. Select Compassion Mode. Enjoy the good intentions.",
+      "03. Notice the router glowing.",
+      "04. Attempt to turn it off. Discover that feature was deprecated.",
+      "05. Probably fine."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I wanted a smarter friend. Now the Wi-Fi has a religion.",
+        "author": "Verified Apocalypse Survivor",
+        "response": "That feature was deprecated."
+      }
+    ],
+    "badges": [
+      "PREMIUM",
+      "73% MORE APOCALYPSE™"
+    ],
+    "status": "product-ad-available",
+    "ratingCount": 73
+  },
+  {
     "id": "cognitive-scanner",
     "kind": "scanner",
     "trackNumber": null,
