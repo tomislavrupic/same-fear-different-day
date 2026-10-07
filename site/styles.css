@@ -16,3 +16,5 @@
 .product-intro{display:block;width:100%;aspect-ratio:16/9;object-fit:contain;background:#111012;border:1px solid #ccd4da;border-radius:3px}.detail-intro{margin:16px 0}.detail-intro .tiny{line-height:1.5}.detail-intro .product-intro{max-height:360px}
 
 .detail-grid>div{min-width:0}.product-intro{min-width:0;max-width:100%}
+
+.hurt-feelings-promo{display:block;width:calc(100% - 32px);max-width:960px;margin:28px auto;border-radius:14px;overflow:hidden;transition:box-shadow .2s}.hurt-feelings-promo img{display:block;width:100%;height:auto}.hurt-feelings-promo:hover{box-shadow:0 0 20px #af35d34d}.hurt-feelings-promo:focus-visible{outline:3px solid #ae35d3;outline-offset:5px}@media(prefers-reduced-motion:reduce){.hurt-feelings-promo{transition:none}}
