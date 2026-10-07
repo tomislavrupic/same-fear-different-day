@@ -59,6 +59,63 @@
     "ratingCount": 10
   },
   {
+    "id": "fractal-recall",
+    "kind": "product",
+    "trackNumber": null,
+    "title": "FRACTAL RECALL",
+    "subtitle": "Every repeat has consequences.",
+    "productType": "Real Audio Plugin · Stereo Delay · AU / VST3",
+    "department": "Pixel Records · Recreational Echoes",
+    "conditions": [
+      "Creative Block",
+      "Overthinking",
+      "Existential Dread"
+    ],
+    "coverImage": "assets/fractal-recall-audio-plugin-box.jpg",
+    "destinationUrl": "https://tomislavrupic.github.io/FRACTAL-RECALL/",
+    "linkLabel": "INFO & FREE DOWNLOAD →",
+    "badgeLabel": "AUDIO PLUGIN · FREE",
+    "destinationNote": "REAL AUDIO PLUGIN · DIGITAL DOWNLOAD · FICTIONAL BOX",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "A real, free and open-source stereo delay by Pixel Records in an imaginary vintage software box. Branching echoes, pitch melt, binaural motion and resonant bodies make time lose its mind. For music production in your DAW.",
+    "features": [
+      "Stereo delay with Clean, Tape and Fractal characters",
+      "Memory and branching echoes",
+      "Pitch Shift and Drift",
+      "Binaural motion",
+      "String, Wood, Metal and Glass resonators",
+      "Assignable LFO",
+      "AU / VST3 audio plugin; see download page for current builds and compatibility"
+    ],
+    "warnings": [
+      "Digital audio software. Physical box not included. Check current platform availability, signing and installation instructions on the download page. Repeats may repeat."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Open INFO & FREE DOWNLOAD.",
+      "02. Choose a compatible build and follow the installation guide.",
+      "03. Load the plugin in your DAW.",
+      "04. Send sound into the echo chamber. PANIC when it is time to come home."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I asked for a second opinion. It came back in stereo.",
+        "author": "Verified Imaginary Echo",
+        "response": "Your feedback has been fed back."
+      }
+    ],
+    "badges": [
+      "FREE & OPEN SOURCE",
+      "NOW WITH MORE AGAIN"
+    ],
+    "status": "plugin-download-available",
+    "ratingCount": 73
+  },
+  {
     "id": "track-01",
     "trackNumber": 1,
     "title": "AI HATER™",
