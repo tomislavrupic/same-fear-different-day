@@ -12,3 +12,7 @@
 #scan-result-title{scroll-margin-top:85px}
 
 .game-link{display:block;text-align:center}.detail-art+.game-link{margin-top:12px}
+
+.product-intro{display:block;width:100%;aspect-ratio:16/9;object-fit:contain;background:#111012;border:1px solid #ccd4da;border-radius:3px}.detail-intro{margin:16px 0}.detail-intro .tiny{line-height:1.5}.detail-intro .product-intro{max-height:360px}
+
+.detail-grid>div{min-width:0}.product-intro{min-width:0;max-width:100%}

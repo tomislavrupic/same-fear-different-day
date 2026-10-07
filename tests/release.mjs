@@ -26,3 +26,16 @@ for(const name of ['hurt-feelings/style.css','hurt-feelings/report.js'])assert.o
 const reportJS=read(release['hurt-feelings/report.js']);
 for(const name of ['hurt-feelings/options.js','hurt-feelings/config.json'])assert.ok(reportJS.includes(path.basename(release[name])));
 console.log('Passed: report page, links and fingerprinted dependencies.');
+
+const tweeter=products.find(t=>t.id==='titty-tweeter');
+assert.ok(tweeter,'Missing Titty Tweeter store item');
+assert.equal(tweeter.destinationUrl,'https://tomislavrupic.github.io/Titty-Tweeter/');
+assert.equal(tweeter.badgeLabel,'FREE · MACOS AUDIO UNIT');
+for(const asset of [tweeter.coverImage,tweeter.introFile,tweeter.introPoster]){
+ assert.ok(asset.startsWith('assets/'));
+ assert.ok(existsSync(path.join('_deploy',asset)),`Missing Titty Tweeter asset: ${asset}`);
+}
+assert.ok(!app.includes('${introPlayer(t,true)}'),'Catalog cards must stay free of video players');
+assert.ok(app.includes('${introPlayer(t)}'),'Product detail must embed the intro');
+assert.ok(app.includes('controls playsinline preload="none"'),'Intro needs user-controlled playback');
+console.log('Passed: Titty Tweeter packaging, product-detail intro and info/download link.');

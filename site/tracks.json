@@ -1,5 +1,63 @@
 [
   {
+    "id": "titty-tweeter",
+    "kind": "product",
+    "trackNumber": null,
+    "title": "TITTY TWEETER",
+    "subtitle": "Finally, some top end.",
+    "productType": "Real macOS Audio Unit · Fictional Collector’s Box",
+    "department": "Pixel Records · Recreational High Frequencies",
+    "conditions": [
+      "Creative Block",
+      "Low Energy",
+      "Overthinking"
+    ],
+    "coverImage": "assets/titty-tweeter-store-box-v1.webp",
+    "destinationUrl": "https://tomislavrupic.github.io/Titty-Tweeter/",
+    "linkLabel": "INFO & FREE DOWNLOAD →",
+    "badgeLabel": "FREE · MACOS AUDIO UNIT",
+    "destinationNote": "REAL AUDIO PLUGIN · DIGITAL DOWNLOAD · FICTIONAL BOX",
+    "introFile": "assets/titty-tweeter-intro-v1.mp4",
+    "introPoster": "assets/titty-tweeter-intro-poster-v1.webp",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "The cardboard is imaginary. The plugin actually works. Titty Tweeter by Pixel Records tames harsh highs with selective de-essing, adds AIR, BITE and SHEEN, and gives six skins their own sound character. Americana goes gloriously over the top with one POWER knob combining high-end lift and selective 10 kHz de-essing.",
+    "features": [
+      "Free macOS AUv2 effect and standalone app",
+      "Apple Silicon arm64; macOS 12 build target",
+      "Six sound characters and animated speaker cones",
+      "Americana: one POWER knob for lift and 10 kHz de-essing",
+      "Developer ID signed and Apple notarized",
+      "AGPLv3 corresponding source available alongside the plugin"
+    ],
+    "warnings": [
+      "Digital download. Physical box not included. Individual DAW and older macOS testing remains limited. Full mixes can trigger de-essing on cymbals and bright synths. No limiter or vocal isolation."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Watch the intro right here.",
+      "02. Open INFO & FREE DOWNLOAD for screenshots, compatibility and installation steps.",
+      "03. Install the Audio Unit and rescan your DAW.",
+      "04. Choose your character. Turn the knobs. In Americana, there is only POWER."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "I ordered more top end. An eagle took the other knobs.",
+        "author": "Verified Imaginary Engineer",
+        "response": "Your missing controls have been converted into freedom."
+      }
+    ],
+    "badges": [
+      "FREE DOWNLOAD",
+      "ONE KNOB. BIG FREEDOM."
+    ],
+    "status": "plugin-download-available",
+    "ratingCount": 10
+  },
+  {
     "id": "track-01",
     "trackNumber": 1,
     "title": "AI HATER™",

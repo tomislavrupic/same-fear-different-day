@@ -33,3 +33,7 @@ Run `npm test` for probability and scanner lifecycle checks; no packages are req
 `npm run build` fingerprints CSS, JavaScript modules, catalog JSON, and sticker data, then rewrites all release references in `_deploy/`. Every changed dependency gets a fresh URL, preventing a new HTML document from using stale scanner code or a seven-product catalog. `node tests/release.mjs` checks this full dependency chain after building. GitHub Pages deploys this generated directory.
 
 Track 08, SEXY INTELLIGENCE™, uses user-supplied packaging and lyrics. The local master is in `9/` despite its album position being 08; preserve this source numbering. Concept credit: Kiri. AI Hater now uses the user-selected full packaging photo `01/HTuBJI_W8AARiA8.jpeg`.
+
+## Titty Tweeter
+
+The Titty Tweeter product is a real, free Pixel Records macOS Audio Unit with a fictional collector’s box. Its catalog card shows the packaging; opening the product detail reveals the 18-second intro, with user-controlled playback and the sound from the creator’s supplied recording. The info/download button opens the public Titty Tweeter landing page. Packaging and intro assets live under `site/assets/titty-tweeter-*`. The source recording and editable video composition remain in the Titty Tweeter workspace; they are not copied into this store repository.
