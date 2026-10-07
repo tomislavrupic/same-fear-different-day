@@ -17,4 +17,4 @@
 
 .detail-grid>div{min-width:0}.product-intro{min-width:0;max-width:100%}
 
-.hurt-feelings-promo{display:block;width:calc(100% - 32px);max-width:960px;margin:28px auto;border-radius:14px;overflow:hidden;transition:box-shadow .2s}.hurt-feelings-promo img{display:block;width:100%;height:auto}.hurt-feelings-promo:hover{box-shadow:0 0 20px #af35d34d}.hurt-feelings-promo:focus-visible{outline:3px solid #ae35d3;outline-offset:5px}@media(prefers-reduced-motion:reduce){.hurt-feelings-promo{transition:none}}
+.hurt-feelings-promo{display:block;width:calc(100% - 32px);max-width:640px;margin:20px auto;border-radius:14px;overflow:hidden;transition:box-shadow .2s}.hurt-feelings-promo img{display:block;width:100%;height:auto}.hurt-feelings-promo:hover{box-shadow:0 0 20px #af35d34d}.hurt-feelings-promo:focus-visible{outline:3px solid #ae35d3;outline-offset:5px}@media(prefers-reduced-motion:reduce){.hurt-feelings-promo{transition:none}}
