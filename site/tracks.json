@@ -116,6 +116,63 @@
     "ratingCount": 73
   },
   {
+    "id": "megatubulas",
+    "kind": "product",
+    "trackNumber": null,
+    "title": "MEGATUBULAS",
+    "subtitle": "Small knobs. Large consequences.",
+    "productType": "Real Audio Plugin · Stateful Saturation · AU / VST3",
+    "department": "Pixel Records · Recreational Harmonics",
+    "conditions": [
+      "Creative Block",
+      "Low Energy",
+      "Overthinking"
+    ],
+    "coverImage": "assets/megatubulas-audio-plugin-box.jpg",
+    "destinationUrl": "https://tomislavrupic.github.io/MEGATUBULAS/",
+    "linkLabel": "INFO & FREE DOWNLOAD →",
+    "badgeLabel": "AUDIO PLUGIN · FREE",
+    "destinationNote": "REAL AUDIO PLUGIN · DIGITAL DOWNLOAD · FICTIONAL BOX",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": null,
+    "youtubeUrl": null,
+    "description": "A real, free and open-source saturation audio plugin by Pixel Records, dressed in an imaginary vintage software box. Three coupled stages give bass weight, synths teeth and drums something to remember. Memory shapes the recovery; experimental harmonic FM follows single bass notes.",
+    "features": [
+      "Three coupled saturation stages",
+      "Drive, Memory, Coupling and clean Blend",
+      "Warm, Tense and Open characters",
+      "Four-band EQ",
+      "4× / 8× FIR oversampling",
+      "Experimental monophonic harmonic FM; defaults off",
+      "Mac Apple Silicon AU / VST3 and Windows x64 VST3; standalone builds available"
+    ],
+    "warnings": [
+      "Digital audio software. Physical box not included. Experimental release: check the download page for compatibility and installation. Mac build is ad-hoc signed and not notarized; Windows build is unsigned. No hidden limiter. Harmonic FM is intended for single-note bass, not chords."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Open INFO & FREE DOWNLOAD.",
+      "02. Listen to the level-matched examples and choose your build.",
+      "03. Install and rescan your DAW following the guide.",
+      "04. Add Drive, explore Memory and Coupling, and watch your output level."
+    ],
+    "reviews": [
+      {
+        "rating": 5,
+        "text": "My bass has a past now.",
+        "author": "Verified Imaginary Producer",
+        "response": "It remembers what you did to the Drive knob."
+      }
+    ],
+    "badges": [
+      "FREE & OPEN SOURCE",
+      "BIG BODY. LONG MEMORY."
+    ],
+    "status": "plugin-download-available",
+    "ratingCount": 73
+  },
+  {
     "id": "track-01",
     "trackNumber": 1,
     "title": "AI HATER™",
