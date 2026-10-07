@@ -5,7 +5,7 @@
     "trackNumber": null,
     "title": "TITTY TWEETER",
     "subtitle": "Finally, some top end.",
-    "productType": "Real macOS Audio Unit · Fictional Collector’s Box",
+    "productType": "Real Mac + Windows Audio Plugin · Fictional Collector’s Box",
     "department": "Pixel Records · Recreational High Frequencies",
     "conditions": [
       "Creative Block",
@@ -15,7 +15,7 @@
     "coverImage": "assets/titty-tweeter-store-box-v1.webp",
     "destinationUrl": "https://tomislavrupic.github.io/Titty-Tweeter/",
     "linkLabel": "INFO & FREE DOWNLOAD →",
-    "badgeLabel": "FREE · MACOS AUDIO UNIT",
+    "badgeLabel": "FREE · AU + VST3",
     "destinationNote": "REAL AUDIO PLUGIN · DIGITAL DOWNLOAD · FICTIONAL BOX",
     "introFile": "assets/titty-tweeter-intro-v1.mp4",
     "introPoster": "assets/titty-tweeter-intro-poster-v1.webp",
@@ -25,21 +25,22 @@
     "youtubeUrl": null,
     "description": "The cardboard is imaginary. The plugin actually works. Titty Tweeter by Pixel Records tames harsh highs with selective de-essing, adds AIR, BITE and SHEEN, and gives six skins their own sound character. Americana goes gloriously over the top with one POWER knob combining high-end lift and selective 10 kHz de-essing.",
     "features": [
-      "Free macOS AUv2 effect and standalone app",
-      "Apple Silicon arm64; macOS 12 build target",
+      "Free Mac AU + VST3 and Windows x64 VST3",
+      "Mac: Apple Silicon; macOS 12 build target",
+      "Branded Mac DMG with drag-install lanes and Easy Install",
       "Six sound characters and animated speaker cones",
       "Americana: one POWER knob for lift and 10 kHz de-essing",
-      "Developer ID signed and Apple notarized",
+      "Mac signed and notarized; Windows build unsigned",
       "AGPLv3 corresponding source available alongside the plugin"
     ],
     "warnings": [
-      "Digital download. Physical box not included. Individual DAW and older macOS testing remains limited. Full mixes can trigger de-essing on cymbals and bright synths. No limiter or vocal isolation."
+      "Digital download. Physical box not included. Individual DAW and older OS testing remains limited. Windows x64 build is unsigned. Full mixes can trigger de-essing on cymbals and bright synths. No limiter or vocal isolation."
     ],
     "lyrics": null,
     "instructions": [
       "01. Watch the intro right here.",
       "02. Open INFO & FREE DOWNLOAD for screenshots, compatibility and installation steps.",
-      "03. Install the Audio Unit and rescan your DAW.",
+      "03. Choose Mac DMG or Windows VST3 ZIP. Follow its installation guide and rescan your DAW.",
       "04. Choose your character. Turn the knobs. In Americana, there is only POWER."
     ],
     "reviews": [

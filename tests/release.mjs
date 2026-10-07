@@ -30,7 +30,7 @@ console.log('Passed: report page, links and fingerprinted dependencies.');
 const tweeter=products.find(t=>t.id==='titty-tweeter');
 assert.ok(tweeter,'Missing Titty Tweeter store item');
 assert.equal(tweeter.destinationUrl,'https://tomislavrupic.github.io/Titty-Tweeter/');
-assert.equal(tweeter.badgeLabel,'FREE · MACOS AUDIO UNIT');
+assert.equal(tweeter.badgeLabel,'FREE · AU + VST3');
 for(const asset of [tweeter.coverImage,tweeter.introFile,tweeter.introPoster]){
  assert.ok(asset.startsWith('assets/'));
  assert.ok(existsSync(path.join('_deploy',asset)),`Missing Titty Tweeter asset: ${asset}`);
