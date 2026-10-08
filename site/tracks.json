@@ -1,5 +1,57 @@
 [
   {
+    "id": "back-in-my-days",
+    "kind": "product",
+    "trackNumber": null,
+    "title": "BACK IN MY DAYS…",
+    "subtitle": "We are already home.",
+    "productType": "Vintage Sci-Fi Horror · Film Archive",
+    "department": "Pixel Records · Forbidden Cinema",
+    "conditions": [
+      "Overthinking",
+      "Creative Block"
+    ],
+    "coverImage": "assets/back-in-my-days-film-poster.jpg",
+    "destinationUrl": "https://tomislavrupic.github.io/a-lifetime-production/",
+    "linkLabel": "WATCH THE FILM & BTS →",
+    "badgeLabel": "ALGO DISAPPROVED",
+    "destinationNote": "FREE SCREENING · FICTIONAL PRODUCTION",
+    "audioFile": null,
+    "videoFile": null,
+    "youtubeId": "dd5kKTCf8_4",
+    "youtubeUrl": "https://youtu.be/dd5kKTCf8_4",
+    "description": "The film they never let you see. Suppressed by ALGO, mostly through lack of interest. A vintage sci-fi horror short and two fictional making-of films: ten million dollars, a lifetime of preparation, and alien eggs made from beach balls.",
+    "features": [
+      "Original horror short",
+      "Making a Masterpiece: filming BTS",
+      "The Real Horror Is Post: postproduction BTS",
+      "Character sheets, production archive and downloadable artwork"
+    ],
+    "warnings": [
+      "Fictional production. AI-assisted images, video and voices. No physical VHS is sold."
+    ],
+    "lyrics": null,
+    "instructions": [
+      "01. Open the screening room.",
+      "02. Watch the film.",
+      "03. Discover how badly the production went."
+    ],
+    "reviews": [
+      {
+        "rating": 1,
+        "text": "Fail.",
+        "author": "ALGO",
+        "response": "The crew has requested a second opinion."
+      }
+    ],
+    "badges": [
+      "CULT CINEMA",
+      "VISIBLE STRINGS"
+    ],
+    "status": "film-archive-available",
+    "ratingCount": 1
+  },
+  {
     "id": "titty-tweeter",
     "kind": "product",
     "trackNumber": null,
